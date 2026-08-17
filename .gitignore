@@ -51,14 +51,14 @@ meals.db
 public/images/
 public/uploads/
 uploads/
-images/
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.mp4
-*.mov
-*.webm
+# images/
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp4
+# *.mov
+# *.webm
 
 # IDE
 .vscode/
